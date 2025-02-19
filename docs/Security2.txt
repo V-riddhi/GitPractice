@@ -1,0 +1,27 @@
+3. Switch Port Stealing
+
+How it Happens:
+
+Hackers hijack data from a device by tricking the network switch into sending information to them instead of the target device.
+
+How to Fix It:
+
+Reboot the network switch.
+
+Find and block the hacker's device.
+
+
+Prevention:
+
+Use port security on switches.
+
+Segment networks with VLANs.
+
+Monitor network activity.
+
+
+Real-World Example:
+
+A hacker demonstrated this attack at the DEF CON security conference by hijacking a network.
+
+

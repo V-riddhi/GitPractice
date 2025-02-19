@@ -1,0 +1,28 @@
+Man-In-The-Middle (MITM) Attack
+
+How it Happens:
+
+A hacker secretly intercepts communication between you and a website or app, stealing data like passwords or credit card info. This usually happens on public Wi-Fi.
+
+How to Fix It:
+
+Disconnect from the internet.
+
+Change passwords on a secure device.
+
+Use a VPN for protection.
+
+
+Prevention:
+
+Avoid public Wi-Fi for sensitive tasks.
+
+Always look for HTTPS in website URLs.
+
+Use two-factor authentication (2FA).
+
+
+Real-World Example:
+
+In 2015, hackers intercepted messages from users of Orange, a French telecom company, to steal banking details.
+

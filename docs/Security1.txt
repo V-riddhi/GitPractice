@@ -1,0 +1,28 @@
+2. Black Basta Ransomware
+
+How it Happens:
+
+Black Basta is malware that locks your files and asks for money to unlock them. It spreads through phishing emails or fake software updates.
+
+How to Fix It:
+
+Disconnect from the network.
+
+Do not pay the ransom.
+
+Restore from a backup.
+
+
+Prevention:
+
+Backup files regularly.
+
+Avoid clicking suspicious email links.
+
+Keep your software updated.
+
+
+Real-World Example:
+
+In 2022, Deutsche Windtechnik, a German company, was hit by Black Basta, causing system shutdowns.
+
